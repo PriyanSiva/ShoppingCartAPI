@@ -1,0 +1,7 @@
+C:\Users\sprve\Desktop\FF\backend\AUTH\shoppingCartAPI\obj\Debug\net8.0\shoppingCartAPI.csproj.AssemblyReference.cache
+C:\Users\sprve\Desktop\FF\backend\AUTH\shoppingCartAPI\obj\Debug\net8.0\shoppingCartAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sprve\Desktop\FF\backend\AUTH\shoppingCartAPI\obj\Debug\net8.0\shoppingCartAPI.AssemblyInfoInputs.cache
+C:\Users\sprve\Desktop\FF\backend\AUTH\shoppingCartAPI\obj\Debug\net8.0\shoppingCartAPI.AssemblyInfo.cs
+C:\Users\sprve\Desktop\FF\backend\AUTH\shoppingCartAPI\obj\Debug\net8.0\shoppingCartAPI.csproj.CoreCompileInputs.cache
+C:\Users\sprve\Desktop\FF\backend\AUTH\shoppingCartAPI\obj\Debug\net8.0\shoppingCartAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sprve\Desktop\FF\backend\AUTH\shoppingCartAPI\obj\Debug\net8.0\shoppingCartAPI.MvcApplicationPartsAssemblyInfo.cache
